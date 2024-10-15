@@ -10,7 +10,7 @@
 
  ## Skills
 
-My current skills that i have learned during the research are **time managment** and **how to google and find topics i need**
+My current skills that i have learned during the research are **time managment** and **how to google and find topics i need**.
 
 ### Time management
 
