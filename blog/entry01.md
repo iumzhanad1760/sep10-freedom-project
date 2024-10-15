@@ -20,7 +20,9 @@ These are really important during any projects or assignments you need to **prio
 
 When i first searched _Graphic Design_ It gave me many different websites and i needed to chose the best. The one thing i founded out while searching is that i need to _specify_ for this one i was using the **Quotation Marks (” “)**  that helps google to make sites more specific than if i would not do it. Also i learned that Use a **minus sign** to exclude words that also helps specify.
 
+# Next Steps
 
+I would follow next steps of _Engineering Design Process_, my next one is Research and Brainstorm possible solutions!!
  
 
 [Next](entry02.md)
