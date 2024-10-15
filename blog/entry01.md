@@ -1,5 +1,5 @@
 # Entry 1 Deciding on My Topic (Graphic Design)
-##### 10/07/24
+##### 10/14/24
 
 # How i chose on my Topic
  The topic I decided on for this project is Graphic Design due to the fact that I’ve always been passionate about this subject. Since I met it in 5th grade and i got really insired by this subject, This topic was the first thought that i would want to try to find a new way to incorporate technology. I almost considered making this project about sports and especially Volleybal but I soon decided that Graphic Design would be the best choice, because it closely related to computer science and SEP. I found out that its really enjoyable to learn all those websites and here are the best of them ["What is the Graphic design"](https://www.interaction-design.org/literature/topics/graphic-design?srsltid=AfmBOooGdGl_hxuEWQctHmF2Lk40NwR-ytMFHQ8KRHTSNejMsEr3Dqlt) by the Interaction Design Foundation and ["What Is Graphic Design? A Beginner's Guide to This Creative Career"](https://www.rasmussen.edu/degrees/design/blog/what-is-graphic-design/) by the Ramussen University.
@@ -20,7 +20,7 @@ These are really important during any projects or assignments you need to **prio
 
 When i first searched _Graphic Design_ It gave me many different websites and i needed to chose the best. The one thing i founded out while searching is that i need to _specify_ for this one i was using the **Quotation Marks (” “)**  that helps google to make sites more specific than if i would not do it. Also i learned that Use a **minus sign** to exclude words that also helps specify.
 
-# Next Steps
+### Next Steps
 
 I would follow next steps of _Engineering Design Process_, my next one is Research and Brainstorm possible solutions!!
  
