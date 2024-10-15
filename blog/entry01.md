@@ -12,9 +12,13 @@
 
 My current skills that i have learned during the research are **time managment** and **how to google and find topics i need**
 
-## Time management
+### Time management
 
 These are really important during any projects or assignments you need to **prioratize** work. It means that i need to do my work first and then everithing else like my phone, and i also think that you need to divide your work to a parts and give your brain and body rest. Always turn your work on time and if you did late than text your teacher about it and maybe ask for more time.
+
+### How to Google
+
+When i first searched _Graphic Design_ It gave me many different websites and i needed to chose the best. The one thing i founded out while searching is that i need to _specify_ for this one i was using the **Quotation Marks (” “)**  that helps google to make sites more specific than if i would not do it. Also i learned that Use a **minus sign** to exclude words that also helps specify.
 
 
  
