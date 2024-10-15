@@ -10,7 +10,9 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **G
 
 ### Those are links
 [Link 1](https://www.interaction-design.org/literature/topics/graphic-design?srsltid=AfmBOopWZmPCcw6hYLM8o7YJzDlHyLSPvvfg2CZRhbe1K7qOYRz6u17e)
+
 [link 2](https://www.rasmussen.edu/degrees/design/blog/what-is-graphic-design/)
+
 [link 3](https://www.pratt.edu/continuing-and-professional-studies/certificates/graphic-design/)
 
 [Product]()
