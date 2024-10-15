@@ -1,14 +1,14 @@
 # SEP10 Freedom Project
-by **iumzhana_Dambaeva**
+by **Iumzhana Dambaeva**
 
 ## Context
 I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering Program](https://hstatsep.github.io/). The "Freedom Project" for SEP10 is a year-long project all about making a website that informs the viewer of the current and future innovations in the topic of my choosing.
 
-For my project, I chose the topic of **X**. 
+For my project, I chose the topic of **Graphic Design**. 
 
-I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **X** in order to help me make my website.
+I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **Graphic Design** in order to help me make my website.
 
-## Links
+## [Link] (https://www.interaction-design.org/literature/topics/graphic-design?srsltid=AfmBOopWZmPCcw6hYLM8o7YJzDlHyLSPvvfg2CZRhbe1K7qOYRz6u17e)
 
 [Product]()
 
