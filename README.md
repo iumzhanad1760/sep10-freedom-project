@@ -8,7 +8,7 @@ For my project, I chose the topic of **Graphic Design**.
 
 I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **Graphic Design** in order to help me make my website.
 
-## Those are links. 
+## Those are links
 #### [Link 1](https://www.interaction-design.org/literature/topics/graphic-design?srsltid=AfmBOopWZmPCcw6hYLM8o7YJzDlHyLSPvvfg2CZRhbe1K7qOYRz6u17e).
 
 [Product]()
