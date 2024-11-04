@@ -5,6 +5,9 @@ HARDWARE & SOFTWARE
 DEVICES HARDWARE
 The first website I found is about (best web and graphic design tools.)
 [https://www.designity.com/blog/the-best-graphic-design-tools-every-designer-needs]
+
+[Best web and graphic design tools](https://www.designity.com/blog/the-best-graphic-design-tools-every-designer-needs)
+
 They are talking about different devices that they are comfortable working with
  What are the pros and cons?
 Some examples are 
