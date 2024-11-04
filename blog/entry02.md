@@ -10,13 +10,14 @@ This webpage is talking about different devices that they are comfortable workin
  What are the **pros and cons?**
 Some examples are 
 The cost and where you can get those devices.
-* ASUS ProArt Studiobook OLED
-* Lenovo Yoga 7i
-* Acer Swift 3 
-_Those are 3 the best excluding MacBook Pro  and MacBook Air laptops._
+* **ASUS ProArt Studiobook OLED**
+* **Lenovo Yoga 7i**
+* **Acer Swift 3** 
+* **_Those are 3 the best excluding MacBook Pro  and MacBook Air laptops._**
 
-For The second one i used search [what gadgets and hardware are useful for web design](https://wpengine.com/resources/web-design-tools/)
-It gave me
+#### Also from my second search i found one more website 
+[what gadgets and hardware are useful for web design](https://wpengine.com/resources/web-design-tools/)
+This beautiful page gave me information about what apps are useful for graphic design what gadgets and examples of tablets and keyboards for **Web & Graphic design**
 What apps are useful for graphic design
 What gadgets are useful for web design 
 Gave examples like tablets and keyboards.
