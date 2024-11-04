@@ -3,8 +3,8 @@
 
 HARDWARE & SOFTWARE
 DEVICES HARDWARE
-The first website I found is about (best web and graphic design tools.)
-[https://www.designity.com/blog/the-best-graphic-design-tools-every-designer-needs]
+The first website I found is about
+[best web and graphic design tools.](https://www.designity.com/blog/the-best-graphic-design-tools-every-designer-needs)
 
 [Best web and graphic design tools](https://www.designity.com/blog/the-best-graphic-design-tools-every-designer-needs)
 
