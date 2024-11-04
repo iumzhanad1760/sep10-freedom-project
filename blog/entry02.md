@@ -2,10 +2,10 @@
 ##### 11/4/24
 
 # HARDWARE
-### DEVICES 
-The first website I found is about
+### DEVICES
+In this section i will show different websites and hardware that they saying is good for _**you**_
 [best web and graphic design tools.](https://www.designity.com/blog/the-best-graphic-design-tools-every-designer-needs)
-They are talking about different devices that they are comfortable working with
+This webpage is talking about different devices that they are comfortable working with. They talking about their sizes and which one is will perfectly fit especially you,so i finding this website really iseful for my theme - Graphic & Web design.
  What are the **pros and cons?**
 Some examples are 
 The cost and where you can get those devices.
