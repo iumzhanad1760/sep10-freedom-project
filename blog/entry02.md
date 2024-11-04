@@ -3,9 +3,8 @@
 
 HARDWARE & SOFTWARE
 DEVICES HARDWARE
-The first website I found is about “best web and graphic design tools.”
-[https://www.designity.com/blog/the-best-graphic-design-tools-every-designer-needs] 
-
+The first website I found is about (best web and graphic design tools.)
+[https://www.designity.com/blog/the-best-graphic-design-tools-every-designer-needs]
 They are talking about different devices that they are comfortable working with
  What are the pros and cons?
 Some examples are 
@@ -21,6 +20,7 @@ What apps are useful for graphic design
 What gadgets are useful for web design 
 Gave examples like tablets and keyboards.
 
+# the bullet information above
 
 [Previous](entry01.md) | [Next](entry03.md)
 
