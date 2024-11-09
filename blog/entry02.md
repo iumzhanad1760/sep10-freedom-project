@@ -1,7 +1,12 @@
 # Entry 2
 ##### 11/4/24
-
+# EDP 
+Currently i am on stage 
 # HARDWARE
+
+# EDP 
+Currently i am on stage 2
+
 ### DEVICES
 #### In this section i will show different websites and hardware that they saying is good for _**you**_
 
