@@ -4,8 +4,12 @@
 Currently i am on stage 
 # HARDWARE
 
+# Content
+In this entry i wiil show my searches from the last week about **Best hardware**  for Graphic and web design. I will show what websites i used for search of devices like laptos and tablets. also in this topic i will write about Devices that was chosen by data from people and this website, also a feedback from people that already using those devies. We will find out they bought succesful or not and what are budget versions of those. 
+
+
 # EDP 
-Currently i am on stage 2
+Currently i am on stage 2, and i am Definding problem inn this entry. My problem is that many people cannot find device for work of Graphic and web design and in this Entry i am showing how to effectivly find the best match for each person! And here are shown the best and most useful hardware for Graphic & Web design. 
 
 ### DEVICES
 #### In this section i will show different websites and hardware that they saying is good for _**you**_
