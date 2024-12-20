@@ -27,7 +27,7 @@ My topic is a **Graphic design** and in this entry i will write about what we di
 ## Sources
 For my sources i used the same links as from my Entry 2, those were software and hardware websites. First one was [The best graphc design software](https://www.techradar.com/best/best-graphic-design-software)- which told about what are the best apps and websites  to use. Also there was [Graphic design tools](https://www.designity.com/blog/the-best-graphic-design-tools-every-designer-needs) website that told us some good devices for graphic design like apple macbooks and couples samsung and lenovo comuters. 
 ## Engineering Design Process
-Right now i am on stage 3 - Brainstorming and writing new ideas. 
+Right now i am on stage 3 - Brainstorming and writing new ideas. On this stage i was brainstorming my topic searching and making some new ideas for the _future technologies_ that not yet made. And the problem i am trying to solve is non physical technologies that will allow people draw and create new things. 
 
 ## Skills
 #### _Organization_ and _Communcation_
