@@ -37,7 +37,7 @@ My first skill that i learnd during the part A and the beggining of part B
 2. The second one was **_Communication_** - After i changed my seat, my communication with a partner got much better because we actually talk and help eachother and it helps me learn new things CLI better. I am not scared of asking for help and open to help other person if i can, i learned that you just need to be respectful, kind and not be scared of talking and asking for help.
    
 ## Next steps
-
+For the next steps i will move on on stage four which is **Plan***- the most promisimg solution. I am thinking about what can be createdto solve my problem and it would be very great to move on to the next entries, can't wait to start it.
 
 [Previous](entry02.md) | [Next](entry04.md)
 
